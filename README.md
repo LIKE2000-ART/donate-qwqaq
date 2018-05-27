@@ -2,6 +2,8 @@
 
 如果您觉得我的项目对您有帮助，并且您愿意给予我一点小小的支持，您可以通过以下方式向我捐赠，这样可以维持项目持续地发展，非常感谢！ヽ(•̀ω•́ )ゝ
 
+If you are enjoying my project, please consider making a donation to keep it alive.
+
 | Alipay | Wechat | 
 | :------: | :------: | 
 | <img width="150" src="./docs/donate/alipay.png"> | <img width="150" src="./docs/donate/wechat.png"> | 
