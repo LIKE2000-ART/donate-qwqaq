@@ -17,4 +17,4 @@ If you are enjoying my project, please consider making a donation to keep it ali
 | 2018-9-13 | duli | 支付宝 0.01 元 |
 | 2018-5-27 | ho*ng518 | 微信 50.00 元 |
 
-![3Q](./docs/3q.jpg)
+![3Q](https://user-images.githubusercontent.com/22412567/46448776-2813d400-c7bb-11e8-9dce-f908bdf7b52b.gif)
