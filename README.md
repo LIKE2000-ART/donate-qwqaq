@@ -6,7 +6,7 @@
 | :------: | :------: | 
 | <img width="150" src="./docs/donate/alipay.png"> | <img width="150" src="./docs/donate/wechat.png"> | 
 
-### 捐助者列表
+### 捐助者名单
 
 非常感谢您的支持（如果这里还没有你的名字？请发邮件至 1149527164@qq.com 告诉我）
 
