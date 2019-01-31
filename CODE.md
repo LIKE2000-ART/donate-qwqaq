@@ -5,7 +5,7 @@
 | :------: | :------: | 
 | <img width="150" src="https://raw.githubusercontent.com/qwqcode/donate-qwqaq/master/docs/donate/alipay.png"> | <img width="150" src="https://raw.githubusercontent.com/qwqcode/donate-qwqaq/master/docs/donate/wechat.png"> | 
 
-捐赠者的名字将保存于 [捐赠者列表](https://github.com/qwqcode/donate-qwqaq)
+捐助者的名字将保存于 [捐助者名单](https://github.com/qwqcode/donate-qwqaq)
 
 最后，我再次对您致以诚挚的感谢！
 ```
@@ -16,6 +16,6 @@
 | :------: | :------: | 
 | <img width="150" src="https://raw.githubusercontent.com/qwqcode/donate-qwqaq/master/docs/donate/alipay.png"> | <img width="150" src="https://raw.githubusercontent.com/qwqcode/donate-qwqaq/master/docs/donate/wechat.png"> | 
 
-捐赠者的名字将保存于 [捐赠者列表](https://github.com/qwqcode/donate-qwqaq)
+捐助者的名字将保存于 [捐助者名单](https://github.com/qwqcode/donate-qwqaq)
 
 最后，我再次对您致以诚挚的感谢！
